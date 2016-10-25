@@ -1,0 +1,26 @@
+{
+                "type": "Feature",
+                "properties": {
+                    "description": "<b>8/1/1966 University of Texas</b></br>Location: Austin, Texas</br>Deaths: 16&nbsp Injuries: 32</br>Shooter: 25yo Male</br>On August 1, 1966, a 25-year-old engineering student at the University of Texas in Austin killed sixteen people and wounded thirty-two others in and around the Tower of the University of Texas. Prior to commencing the mass shootings at the University, the student and former U.S. Marine, had murdered both his wife and mother in Austin, Texas.",
+                    
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-95.844159, 30.198887]
+                }
+            },
+			
+			
+			
+			
+{
+                "type": "Feature",
+                "properties": {
+                    "description": "<b>{Date} {Title}</b></br>Location: {Location}</br>Deaths: {Number of Victim Fatalities}&nbsp Injuries: {Number of Victims Injured}</br>Shooter: {Average Shooter Age}yo {Shooter Sex}</br>{Description}",
+                    
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [{Longitude}, {Latitude}]
+                }
+            },
